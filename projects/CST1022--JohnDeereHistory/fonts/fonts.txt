@@ -1,0 +1,3 @@
+FONTS:
+
+engravers-gothic-regular.otf	:	https://fontsmagazine.com/font/john-deere-font/

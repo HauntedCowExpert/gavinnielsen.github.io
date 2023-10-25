@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* HauntedCowExpert External Style Sheet */
+
+/* Page CSS */
+body {
+  background: burlywood;
+}
+h1 {
+    color: firebrick;
+    font-family: monospace;
+}
+h2 {
+    color: firebrick;
+    font-family: monospace;
+}
+h3 {
+    color: firebrick;
+    font-family: monospace;
+}
+p {
+    color: black;
+    font-family: monospace;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+}
+/* News Article Sizing */
+.news-article {
+    margin-left: 150px;
+    margin-right: 250px;
+    margin-top: 100px;
+}
+
+/* Resume Sizing */
+.resume-title {
+    margin-left: 100px;
+    margin-right: 250px;
+    margin-top: 40px;
+}
+.resume-body {
+    margin-left: 150px;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+.resume-link {
+    margin-left: 100px;
+    display: block;
+    color: firebrick;
+    text-decoration: none;
+}
+
+/* Navigation Bar CSS */
+.navigation-menu {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+}
+li {
+    color: firebrick;
+    float: left;
+    font-family: monospace;
+}
+li a {
+    display: block;
+    color: firebrick;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}

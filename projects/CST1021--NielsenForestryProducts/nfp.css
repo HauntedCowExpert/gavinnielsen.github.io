@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* Nielsen Forestry Products External Style Sheet - Gavin Nielsen */
+/* All Pages */
+a {
+    color: white;
+}
+b {
+    color: white;
+}
+body {
+    background-image: url('images/background/pinetrees.jpg');
+}
+form {
+    background-color: rgb(18, 109, 2);
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 15px;
+}
+h1 {
+    background-color: rgb(18, 109, 2);
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+h2 {
+    color: white;
+    margin: 20px;
+}
+h3 {
+    color: white;
+    margin: 20px;
+}
+hr {
+    height: 5px;
+    border: none;
+    background-color: rgb(18, 109, 2);
+    color: rgb(18, 109, 2);
+    width: 95%;
+}
+.map {
+    text-align: center;
+    padding-bottom: 60px;
+}
+.offer-items {
+    float: left;
+    padding-bottom: 60px;
+}
+p {
+    color: white;
+    background-color: rgba(18, 109, 2, 0.5);
+    padding: 10px;
+}
+.welcome {
+    background-color: rgb(18, 109, 2);
+    color: white;
+    text-align: center;
+}
+
+
+/* Navigation Bar */
+.footer-navigation {
+    font-weight: lighter;
+    width: 100%;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+}
+.navigation-menu {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(18, 109, 2);
+    text-align: center;
+    display: inline-block;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}

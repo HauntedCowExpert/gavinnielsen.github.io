@@ -1,0 +1,8 @@
+us_composites_resin = 0
+us_composites_hardener = 0
+
+pro_marine_resin = 0
+pro_marine_hardener = 0
+
+epoxy_resin_store_resin = 0
+epoxy_resin_store_hardener = 0
